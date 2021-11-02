@@ -1,2 +1,2 @@
-# SpringTutorial
+# SpringExercises
 Kickstarting with spring boot
